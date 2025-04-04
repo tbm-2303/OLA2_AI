@@ -26,4 +26,4 @@ I used streamlit before and its just so fast and handy for quick prototyping and
 
 ![streamlit](streamlit.png)
 
-4. **Deploy using python friendly hosting options or maybe streamlit cloud(build in option)**
+4. If we wanted we could host this on the web using a variety of providers. streamlit even has a buildin option for this.

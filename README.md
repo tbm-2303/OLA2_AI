@@ -2,9 +2,11 @@
 
 ## Moving the Solution from Notebook to Application
 
-- Interactive web application using **Streamlit** — a lightweight framework ideal for turning data science notebooks into user-friendly interfaces.
+- I chose Interactive **Streamlit** — a lightweight framework ideal for turning data science notebooks into user-friendly interfaces.
+
 
 ### ✅ Why Streamlit?
+I used streamlit before and its just so fast and handy for quick prototyping and testing. 
 
 - **Fast Prototyping**
 - **User-Friendly**

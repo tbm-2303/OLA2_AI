@@ -24,6 +24,6 @@ I used streamlit before and its just so fast and handy for quick prototyping and
 
 3. **Lanch it locally**
 
-!streamlit](streamlit.png)
+![streamlit](streamlit.png)
 
 4. **Deploy using python friendly hosting options or maybe streamlit cloud(build in option)**
